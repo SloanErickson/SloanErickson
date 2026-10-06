@@ -1,4 +1,5 @@
-## Hi! I'm Dayne Erickson-Sloan, an undergraduate student currently majoring in mathematics at Oregon State University. I just transferred this term, and was previously at Clackamas Community College. I am currently unsure if I am going to pursue a data science degree, but my advisor recommended that I take this course, as it will (hopefully) help me decide on a path I want to pursue while I'm here at Oregon State. I do have a preexisting interest in math and statistics, so it seems like a path right up my alley!
+## Hi There! 👋
+I'm Dayne Erickson-Sloan, an undergraduate student currently majoring in mathematics at Oregon State University. I just transferred this term, and was previously at Clackamas Community College. I am currently unsure if I am going to pursue a data science degree, but my advisor recommended that I take this course, as it will (hopefully) help me decide on a path I want to pursue while I'm here at Oregon State. I do have a preexisting interest in math and statistics, so it seems like a path right up my alley!
 
 <!--
 **SloanErickson/SloanErickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
